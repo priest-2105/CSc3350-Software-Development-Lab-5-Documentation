@@ -1,5 +1,5 @@
 {
-  "name": "csc3350-sdl5d",
+  "name": "csc3350",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -41,6 +41,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "1.0.4",
+    "csc3350": "file:",
     "csc3350-sdl5d": "file:",
     "date-fns": "^3.3.1",
     "embla-carousel-react": "8.5.1",
@@ -60,6 +61,7 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
+    "@shadcn/ui": "^0.0.4",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
