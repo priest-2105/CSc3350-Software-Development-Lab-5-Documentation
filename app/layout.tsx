@@ -1,9 +1,11 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
-import "@/app/globals.css"
+import "./globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 import logo from "@/public/logo.webp"
+import "@/styles/globals.css"
+
 
 const inter = Inter({ subsets: ["latin"] })
 
