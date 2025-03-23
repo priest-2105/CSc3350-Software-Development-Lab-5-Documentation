@@ -32,7 +32,7 @@ export default function Home() {
       <main className="flex-1 p-6 md:p-10 bg-background dark:bg-gradient-to-br dark:from-gray-900 dark:to-gray-800">
         <div className="max-w-4xl mx-auto">
           <div className="flex justify-between items-center mb-8">
-            <h1 className="text-3xl font-bold">Documentation</h1>
+            <h1 className="text-3xl font-bold"> CSC-3350 Documentation</h1>
             <Button
               variant="outline"
               size="icon"
